@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "Lets Mod",
+  "description": "A mod based on Pahimar's Let's Mod Reboot series.",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "XxtremeIII"
+  ],
+  "credits": "Thanks to pahimar for teaching on how to make a mod for minecraft.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
